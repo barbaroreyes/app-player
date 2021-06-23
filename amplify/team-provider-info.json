@@ -16,5 +16,23 @@
         "appplayer59e10564": {}
       }
     }
+  },
+  "devnew": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-appplayer-devnew-131751-authRole",
+      "UnauthRoleArn": "arn:aws:iam::513590133214:role/amplify-appplayer-devnew-131751-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::513590133214:role/amplify-appplayer-devnew-131751-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-appplayer-devnew-131751-deployment",
+      "UnauthRoleName": "amplify-appplayer-devnew-131751-unauthRole",
+      "StackName": "amplify-appplayer-devnew-131751",
+      "StackId": "arn:aws:cloudformation:us-east-2:513590133214:stack/amplify-appplayer-devnew-131751/54763530-d44f-11eb-8384-06efb3496134",
+      "AmplifyAppId": "dnc4cpcmwl8me"
+    },
+    "categories": {
+      "auth": {
+        "appplayer59e10564": {}
+      }
+    }
   }
 }
